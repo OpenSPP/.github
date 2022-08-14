@@ -2,6 +2,21 @@
 
 ### OpenSPP is a scalable, integrated and digital social protection information system.
 
+## Features
+
+- Registration
+- Unified Registry
+- Assessment of Needs and Conditions
+- Program Management
+- Cash Transfer
+- In-kind Distribution
+- Mass Campaigns
+- Grievance & Appeals management
+- Program monitoring, Data Analytics & Visualization
+- ID Card Issuance
+- Data Privacy & Security
+- Integrations & APIs
+
 <!--
 
 **Here are some ideas to get you started:**
