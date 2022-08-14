@@ -1,4 +1,6 @@
-## Hi there 👋
+# OpenSPP - Open Source Social Protection Platform
+
+### OpenSPP is a scalable, integrated and digital social protection information system.
 
 <!--
 
