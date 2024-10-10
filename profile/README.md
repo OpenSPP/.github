@@ -23,7 +23,7 @@ Some of the key technical features of OpenSPP include:
 
 ## Installation and Setup
 
-To install and set up OpenSPP, you will need to follow this [documentation](https://docs.openspp.org/installation.html).
+To install and set up OpenSPP, you will need to follow this [documentation](https://docs.openspp.org/getting_started/installation_guide.html).
 
 ## Community Involvement
 
